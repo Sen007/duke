@@ -16,5 +16,7 @@
     <author href="http://www.duke-eb.nl" email="info@duke-eb.nl">
         Duke-E&amp;B  
     </author>
-
+	<icon src="icon.png" />
+	
+	
 </widget>
