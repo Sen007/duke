@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.duke"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Duke-E&amp;B APP</name>
+
+    <description>
+        Duke-E&amp;B 
+    </description>
+
+    <author href="http://www.duke-eb.nl" email="info@duke-eb.nl">
+        Duke-E&amp;B  
+    </author>
+
+</widget>
